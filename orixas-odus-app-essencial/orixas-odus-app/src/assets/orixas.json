@@ -1,0 +1,37 @@
+{
+    "OMOLU": {
+        "perfil_das_pessoas": "Possuem a marca do orixá no corpo - resistência diante das doenças - atingem situações materiais muito boas – relacionamento social difícil – os homens não tem sorte com as mulheres – se for mulher pode não ser boa mãe – dão tudo, mas exigem tudo – não admitem pressões – gostam da família.",
+        "tendencias_temperamentos": "Dedicam-se a outras pessoas a ponto de esquecer de si próprios – não gostam de mudanças – são conservadores – generosos e com senso de responsabilidade – gostam de se mortificar – reservados – caseiros – o que é deles é deles – não admitem que nada lhes seja tomado – muita intuição – autoritários, fazem o que querem.",
+        "o_que_representa_no_jogo": "Notícia de morte – ou a pessoa é morta ou vai morrer alguém – luto – doenças contagiosas – bronquite – epilepsia – hospital – feitiço."
+    },
+    "OXUMARE": {
+        "perfil_das_pessoas": "Tendência à riqueza – gostam de mostrar a sua grandeza – generosidade – não negam ajuda – têm beleza, são elegantes e despertam atenção – são pessoas dadas a surpresas – são magras.",
+        "tendencias_temperamentos": "Dinâmicos – curiosos – inteligentes – espertos – pacientes – perseverantes – exibicionistas – raivosos – possuem cacoetes – são uma cobra embrulhada num papel de presente – dão o bote sem esperar.",
+        "o_que_representa_no_jogo": "Morte – luto - doenças"
+    },
+    "NANA": {
+        "perfil_das_pessoas": "São velhas antes do tempo – lentas em atos e ações – calmas – equilibradas – trabalhadoras – dignas – gentis – têm reservas sobre os homens – resistência física – austeras – sem beleza ou vaidade.",
+        "tendencias_temperamentos": "Não suportam desordem e desperdício – gostam de crianças – organizadas – reclamam muito – são sábias e carinhosas - ranzinzas – são dadas a cozinhar e costurar.",
+        "o_que_representa_no_jogo": "Amante – paz – doença no ventre – dinheiro – mulher – choro."
+    },
+    "OXUM": {
+        "perfil_das_pessoas": "São graciosas, elegantes, sensuais e delicadas – o encanto é a arma para conseguir o que desejam – reservadas – sem muita saúde – chegam a ser infantis – não sabem recusar nada – o rio é calmo, mas a pessoa se afoga – premonição – podem ser perigosas – falsas – se fizerem com ela, pagarão.",
+        "tendencias_temperamentos": "Adoram jóias – tendência a perdê-las – busca de posição social – emotivas – voz suave – são dependentes – meigas – sorridentes – às vezes preguiçosas – ingênuas até certo ponto – são astutas – difícil de se zangar – problemas conjugais – lembrança do 1º amor.",
+        "o_que_representa_no_jogo": "Amante – paz – doença no ventre – dinheiro – mulher – choro."
+    },
+    "OBA": {
+        "perfil_das_pessoas": "Mulheres valorosas podendo chegar a ser incompreendidas – atitudes agressivas em consequência de experiencias não bem-sucedidas.",
+        "tendencias_temperamentos": "Tendências viris – ciumentas – ambiciosas, buscam nada perder – fortes – masculinizadas – não levam desaforos – julgam-se superiores junto ao marido ou outras mulheres.",
+        "o_que_representa_no_jogo": "Falsidades – desgraça – doenças – aviso de mudanças – fartura – uma resposta esperada."
+    },
+    "YEMONJA": {
+        "perfil_das_pessoas": "Imprevisíveis como as ondas – ciumentas – esposa e mãe zelosa até de filhos estranhos – perdoam, mas não esquecem – voluntariosas – rigorosas – vaidosas – põem à prova as amizades – são desconfiadas – se perdoam, não esquecem – apreciam a solidão – fazem as coisas (fofocas) tiram o corpo fora.",
+        "tendencias_temperamentos": "Aparentemente calmas – prestativas – sérias as vezes, se enfurecem de forma imprevisível – dão para negócios – irritam-se facilmente – robustas – seios desenvolvidos – exigentes no respeito à posição assumida – se forem magras, fogem do conceito e se tornam perigosas.",
+        "o_que_representa_no_jogo": "Pessoa temperamental – mulher livre – mulher com dificuldades na vida – briga – vaidade – amante – gênio forte."
+    },
+    "YANSAN": {
+        "perfil_das_pessoas": "Mulheres audaciosas, poderosas e autoritárias – dedicadas ao companheiro, não admitem serem enganadas – raciocínio rápido – fieis e leais, podendo se modificar caso sejam contrariadas em seus projetos – vitoriosas – bonitas – possessivas – quando geniosas são difíceis de aturar – solidariedade diante dos amigos – perdoam facilmente.",
+        "tendencias_temperamentos": "Energia – dinamismo – irrequietas – provocantes – autoritárias – não são ligadas a crianças e a afazeres domésticos – temperamentais – gostam de cozinhar – se forem caseiras serão boas – atividades sexual – são do momento – sentem-se bem diante dos problemas – sabem viver na tempestade – astutas – ciumentas.",
+        "o_que_representa_no_jogo": "Pessoa temperamental – mulher livre – mulher com dificuldades na vida – briga – vaidade – amante – gênio forte."
+    }
+}
